@@ -20,7 +20,10 @@ public class ForLoop {
         for(var counter2 = 1; counter2 <= 10; counter2++){
             System.out.println("counter " + counter2);
             System.out.println("thank you");
+            System.out.println("bye bye");
+            System.out.println("lalalala");
         }
+
 
 
 
