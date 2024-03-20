@@ -19,6 +19,7 @@ public class ForLoop {
         //penulisan lebih simpel
         for(var counter2 = 1; counter2 <= 10; counter2++){
             System.out.println("counter " + counter2);
+            System.out.println("thank you");
         }
 
 
