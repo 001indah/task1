@@ -45,6 +45,7 @@ public class Exercise1v2 {
         System.out.println("Days difference beetween start and end is: " + daysDifference + "Days.");
         System.out.println(daysDifference);
         System.out.println("end");
+        System.out.println("Hello World!");
     }
 //    public static int dataDifferenece(String d1, String d2){
 //        LocalDate
