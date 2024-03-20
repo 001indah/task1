@@ -43,7 +43,8 @@ public class Exercise1v2 {
         LocalDate persedEndDate = LocalDate.parse(endDate,formatter);
         long daysDifference = ChronoUnit.DAYS.between(persedStartDate,persedEndDate);
         System.out.println("Days difference beetween start and end is: " + daysDifference + "Days.");
-
+        System.out.println(daysDifference);
+        System.out.println("end");
     }
 //    public static int dataDifferenece(String d1, String d2){
 //        LocalDate
